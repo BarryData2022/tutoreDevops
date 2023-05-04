@@ -1,5 +1,5 @@
 /* import shared library. */
-@Library('chocoapp-slack-share-library')_
+@Library('BarryData2022-librairyPartage')_
 
 pipeline {
     environment {
